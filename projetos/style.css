@@ -1,0 +1,43 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 300px;
+    margin: auto;
+    color: brown
+
+}
+
+
+h1,h2 {
+    background-color: burlywood;
+    padding: 40x;
+    color: brown
+    };
+
+    .centralizar {
+        text-align: center;
+    }
+
+    ol {
+        line-height: 30px;
+    }
+
+    .bt-youtube {
+    background-color: salmon;
+    color: purple
+    text-decoration: none;
+    padding: 15px 32px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    }
+
+    .bt-youtube:hover {
+        background-color: red;
+        color: rgba(210, 185, 185, 0.539);
+    }
+
+    footer{
+        margin-top: 30px;
+        text-align: center;
+    }
